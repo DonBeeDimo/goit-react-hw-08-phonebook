@@ -1,0 +1,24 @@
+.wrapper {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-weight: 500;
+  font-size: 35px;
+}
+
+.text {
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: 700;
+  background: red;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.info {
+  font-size: 20px;
+  color: var(--secondaryTextColor);
+}

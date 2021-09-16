@@ -1,0 +1,11 @@
+.container {
+  max-width: 1170pxpx;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  /* background-color: var(--bgColor);
+  box-shadow: var(--boxShadow); */
+}
